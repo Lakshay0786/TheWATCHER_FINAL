@@ -36,7 +36,7 @@ const SearchBar = () => {
     return () => {
       clearTimeout(timer);
     };
-
+    // eslint-disable-next-line
   }, [searchTerm])
 
   const getSearchSuggestions = async () => {

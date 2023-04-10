@@ -1,5 +1,5 @@
 import React from "react";
-import { Box } from "@mui/material";
+// import { Box } from "@mui/material";
 
 import ChannelCard from "./ChannelCard";
 import { LoaderSmall } from "./Loader";
